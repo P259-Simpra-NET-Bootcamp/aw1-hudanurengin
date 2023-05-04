@@ -4,6 +4,9 @@
 <li><h2>Veritabani kurulumlari:</h2></li>
 <ol>
 <li> MSSQL Server</li>
+
+  ![github](mssqlmanagement.png)
+
 <li> PostgreSQL(Docker uzerine veya bilgisayariniza) </li>
 </ol>
 <li><h2>Veritabani yonetim araci kurulumlari:</h2></li>
