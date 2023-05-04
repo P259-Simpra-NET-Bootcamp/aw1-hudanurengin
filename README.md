@@ -10,8 +10,8 @@
 <ol>
 <li> MSSQL Managment Studio</li>
 <li> PgAdmin4 veya DBeaver </li>
-![github](images/pg4admin.png)
 </ol>
+![github](images/pg4admin.png)
 <li><h2>Diger uygulamalar:</h2></li>
 <ol>
 <li> Postman</li>
