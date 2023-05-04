@@ -11,9 +11,6 @@
 <li> MSSQL Managment Studio</li>
 <li> PgAdmin4 veya DBeaver </li>
 </ol>
-
-![github](images/pgadmin4.png)
-
 <li><h2>Diger uygulamalar:</h2></li>
 <ol>
 <li> Postman</li>
