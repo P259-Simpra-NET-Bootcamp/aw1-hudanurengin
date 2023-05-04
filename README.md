@@ -5,9 +5,12 @@
 <ol>
 <li> MSSQL Server</li>
 
-  
+  ![github](mssqlserver.png)
 
 <li> PostgreSQL(Docker uzerine veya bilgisayariniza) </li>
+
+  ![github](postgresql.png)
+
 </ol>
 <li><h2>Veritabani yonetim araci kurulumlari:</h2></li>
 <ol>
